@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ffd/BaiTapOOpJava.iml" filepath="$PROJECT_DIR$/ffd/BaiTapOOpJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapOopJava/BaiTapOopJava.iml" filepath="$PROJECT_DIR$/BaiTapOopJava/BaiTapOopJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/NguyenManhCuong.iml" filepath="$PROJECT_DIR$/.idea/NguyenManhCuong.iml" />
     </modules>
   </component>
