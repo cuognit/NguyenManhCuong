@@ -12,4 +12,5 @@ public class test {
         sv1.setTruong(tr);
         System.out.println(sv1.toString());
     }
+
 }
