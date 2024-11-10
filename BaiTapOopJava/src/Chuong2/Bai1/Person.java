@@ -19,7 +19,7 @@ public class Person {
         this.email = email;
         this.phone = phone;
     }
-
+  // getter and setter
     public String getName() {
         return name;
     }
@@ -67,7 +67,7 @@ public class Person {
     public void setPhone(String phone) {
         this.phone = phone;
     }
-
+  // tostring
     @Override
     public String toString() {
         return "Person{" +
