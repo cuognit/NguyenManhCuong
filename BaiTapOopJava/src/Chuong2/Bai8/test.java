@@ -25,5 +25,8 @@ public class test {
         System.out.println("St1= "+t1.getArea());
         System.out.println(r1.legth);
         System.out.println(t1.base);
+        //Bai9________________________________________________
+        System.out.println(r1 instanceof Rectangle );
     }
+
 }
